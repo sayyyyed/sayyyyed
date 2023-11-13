@@ -2,13 +2,8 @@
 <h3 align="center">low iq dev</h3>
 
 - 🌱 I’m currently learning **Flutter and Machine Learning**
-
-- 👨‍💻 All of my projects are available at [be.net/sayyyed](be.net/sayyyed)
-
-- 💬 Ask me about **Java, Python, Bootstrap,**
-
+- 👨‍💻 All of my (design wkwkwkw) projects are available at [be.net/sayyyed](be.net/sayyyed)
 - 📫 How to reach me **mehmetvladimir@gmail.com**
-
 - ⚡ Fun fact **Bush did 9/11**
 
 <h3 align="left">Connect with me:</h3>
