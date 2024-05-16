@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">low iq dev</h3>
 - ⚡ Fun fact **Bush did 9/11**
 
@@ -9,6 +8,3 @@
 <a href="https://instagram.com/abu.nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu.nguyen" height="30" width="40" /></a>
 <a href="https://www.behance.net/sayyyed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sayyyed" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayyyyed&show_icons=true&locale=en&layout=compact" alt="sayyyyed" /></p>
-
